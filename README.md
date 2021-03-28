@@ -17,7 +17,7 @@ for how to use it to merge two Notebooks in the file **script2.py**
 You can find our **Medium article** explaining the details of this project via this link:
 
 [How To Easily Merge Multiple Jupyter Notebooks Into One
-]()
+](https://towardsdatascience.com/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4)
 
 
 If you like the project and want to support us, you can buy us a coffee here:
